@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./protagorascumpro00platuoft/protagorascumpro00platuoft_0049.png"; bbox 0 0 1907 3230; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 372 1237 1330 1325">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 372 1237 1330 1325">
+     <span class='ocr_line' id='line_1_1' title="bbox 372 1237 1330 1325; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 372 1237 1330 1325; x_wconf 71' lang='grc' dir='ltr'>ΠΛΑΤῼΝΟΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 535 1465 1165 1529">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 535 1465 1165 1529">
+     <span class='ocr_line' id='line_1_2' title="bbox 535 1465 1165 1529; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 535 1465 1165 1529; x_wconf 71' lang='grc' dir='ltr'><strong>ΠΡΩΤΑΓΟΡΑΣ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 439 1667 1272 1716">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 439 1667 1272 1716">
+     <span class='ocr_line' id='line_1_3' title="bbox 439 1667 1272 1716; baseline -0.002 -13"><span class='ocrx_word' id='word_1_3' title='bbox 439 1671 489 1716; x_wconf 74' lang='grc' dir='ltr'><strong>[Η</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 521 1671 804 1705; x_wconf 82' lang='grc' dir='ltr'><strong>ΣΟΦΙΣΤΑΙ.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 855 1667 1272 1713; x_wconf 68' lang='grc' dir='ltr'>ΕΝΔΕΙΚΤΙΚΟΣ]</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
